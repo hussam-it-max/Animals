@@ -1,7 +1,7 @@
 # Animals
 >Discover amazing animals
 
-* [Tiger](tiger.md "tiger")
+* [Tiger](Tiger.md "tiger")
 * [Bear](Bear.md "Bear")
 * [Deer](Deer.md "Deer")
 * [Dog](Dog.md "Dog")
